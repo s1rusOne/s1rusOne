@@ -2,11 +2,10 @@
 </div>  
   
 ### Hi, I'm Roman, a web-developer 👨‍💻 
-Working remotely since 2018 🚀
 
-I am a ambitious Fullstack Developer with three years of experience as a freelancer. 
+**I am a ambitious Fullstack Developer with three years of experience as a freelancer. 
 My creative approach to design, ability to quickly learn new programming languages, and a high level of responsibility make me an effective professional in web development. 
-I successfully collaborate in a team, strive for excellence, and am always ready for new challenges.
+I successfully collaborate in a team, strive for excellence, and am always ready for new challenges.**
   
 
 <br/>  
