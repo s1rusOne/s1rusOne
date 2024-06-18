@@ -28,10 +28,11 @@ Work Experience: Fullstack Developer: 5+ years
 • Good proficiency in English and Finnish languages
 
 ╰┈➤ Contact:
-• Web CV: https://rowedev.com
-• GitHub: https://github.com/s1rusOne
-• Telegram: https://t.me/vendorOne
-• Gmail: https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=proninrd@gmail.com**
+• Web CV: https://rowedev.com <br/>
+• GitHub: https://github.com/s1rusOne <br/>
+• Telegram: https://t.me/vendorOne <br/>
+• Gmail: https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=proninrd@gmail.com <br/>
+**
   
 
 <br/>  
