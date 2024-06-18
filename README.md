@@ -3,7 +3,7 @@
   
 ### Hi, I'm Roman, a web-developer 👨‍💻 
 
-**╰┈➤ About Me: 
+╰┈➤ About Me: 
 • I am a ambitious Fullstack Developer with 5 years of experience. Throughout my entire history of website development, I have worked with many clients, and during my studies, I was an outstanding web application developer. My creative approach to design, ability to quickly learn new programming languages, and a high level of responsibility make me an effective professional in web development. I successfully collaborate in a team, strive for excellence, and am always ready for new challenges. <br/>
 
 Work Experience: Fullstack Developer: 5+ years <br/> <br/>
@@ -32,7 +32,6 @@ Work Experience: Fullstack Developer: 5+ years <br/> <br/>
 • GitHub: https://github.com/s1rusOne <br/>
 • Telegram: https://t.me/vendorOne <br/>
 • Gmail: https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=proninrd@gmail.com <br/>
-**
   
 
 <br/>  
