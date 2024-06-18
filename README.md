@@ -3,9 +3,35 @@
   
 ### Hi, I'm Roman, a web-developer 👨‍💻 
 
-**I am a ambitious Fullstack Developer with three years of experience as a freelancer. 
-My creative approach to design, ability to quickly learn new programming languages, and a high level of responsibility make me an effective professional in web development. 
-I successfully collaborate in a team, strive for excellence, and am always ready for new challenges.**
+**╰┈➤ About Me: 
+• I am a ambitious Fullstack Developer with 5 years of experience. Throughout my entire history of website development, I have worked with many clients, and during my studies, I was an outstanding web application developer. My creative approach to design, ability to quickly learn new programming languages, and a high level of responsibility make me an effective professional in web development. I successfully collaborate in a team, strive for excellence, and am always ready for new challenges.
+
+Work Experience: Fullstack Developer: 5+ years
+
+╰┈➤ Education: 
+• Basic Degree in Information and Communication Technology
+
+╰┈➤ Skills:
+• JavaScript, NodeJs, HTML, PHP, SQL, CSS, TypeScript, ReactJS
+• Experience with MongoDB
+• Creative approach to interface design and color palette
+• Ability to quickly learn new languages and frameworks
+• Communicative and successful collaboration in a team
+• High level of responsibility
+• Developed problem-solving skills and effective solutions
+• Ability to work with Git
+
+╰┈➤ Personal Qualities:
+• Creative designer with a keen sense of style
+• Self-education since the age of 2017, continuous learning of new technologies
+• Passion for sports and learning foreign languages
+• Good proficiency in English and Finnish languages
+
+╰┈➤ Contact:
+• Web CV: https://rowedev.com
+• GitHub: https://github.com/s1rusOne
+• Telegram: https://t.me/vendorOne
+• Gmail: https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=proninrd@gmail.com**
   
 
 <br/>  
