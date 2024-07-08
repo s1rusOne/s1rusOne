@@ -4,36 +4,34 @@
 ### Hi, I'm Roman, a web-developer 👨‍💻 
 
 ╰┈➤ About Me: 
-• I am a ambitious Fullstack Developer with 5 years of experience. Throughout my entire history of website development, I have worked with many clients, and during my studies, I was an outstanding web application developer. My creative approach to design, ability to quickly learn new programming languages, and a high level of responsibility make me an effective professional in web development. I successfully collaborate in a team, strive for excellence, and am always ready for new challenges. <br/>
+• I am a ambitious Fullstack Developer with 5 years of experience. Throughout my entire history of website development, I have worked with many clients, and during my studies, I was an outstanding web application developer. My creative approach to design, ability to quickly learn new programming languages, and a high level of responsibility make me an effective professional in web development. I successfully collaborate in a team, strive for excellence, and am always ready for new challenges.
 
-Work Experience: Fullstack Developer: 5+ years <br/> <br/>
+Work Experience: Fullstack Developer: 5+ years
 
-╰┈➤ Education:  <br/>
-• Basic Degree in Information and Communication Technology <br/> <br/>
+╰┈➤ Education: 
+• Basic Degree in Information and Communication Technology
 
-╰┈➤ Skills: <br/>
-• JavaScript, NodeJs, HTML, PHP, SQL, CSS, TypeScript, ReactJS <br/>
-• Experience with MongoDB <br/>
-• Creative approach to interface design and color palette <br/>
-• Ability to quickly learn new languages and frameworks <br/>
-• Communicative and successful collaboration in a team <br/>
-• High level of responsibility <br/>
-• Developed problem-solving skills and effective solutions <br/>
-• Ability to work with Git <br/> <br/>
+╰┈➤ Skills:
+• JavaScript, NodeJs, HTML, PHP, SQL, CSS, TypeScript, ReactJS, MongoDB, REST API, Git
+• Creative approach to interface design and color palette
+• Ability to quickly learn new languages and frameworks
+• Communicative and successful collaboration in a team
+• High level of responsibility
+• Developed problem-solving skills and effective solutions
+• Ability to work with Git
 
-╰┈➤ Personal Qualities: <br/>
-• Creative designer with a keen sense of style <br/>
-• Self-education since the age of 2017, continuous learning of new technologies <br/>
-• Passion for sports and learning foreign languages <br/>
-• Good proficiency in English and Finnish languages <br/> <br/>
+╰┈➤ Personal Qualities:
+• Creative designer with a keen sense of style
+• Self-education since the age of 2017, continuous learning of new technologies
+• Passion for sports and learning foreign languages
+• Good proficiency in English and Finnish languages
 
-╰┈➤ Contact: <br/>
-• Web CV: https://rowedev.com <br/>
-• GitHub: https://github.com/s1rusOne <br/>
-• Telegram: https://t.me/vendorOne <br/>
-• Gmail: https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=proninrd@gmail.com <br/>
-  
-
+╰┈➤ Contact:
+• Web CV: https://rowedev.com
+• GitHub: https://github.com/s1rusOne
+• Phone: +358413150463
+• Telegram: https://t.me/vendorOne
+• Gmail: https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=proninrd@gmail.com
 <br/>  
 
 
