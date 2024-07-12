@@ -88,9 +88,3 @@ Work Experience: Fullstack Developer: 5+ years<br><br>
   
 
 <br/>  
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1rusOne&hide_border=true&layout=compact" align="left" />  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=s1rusOne&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
