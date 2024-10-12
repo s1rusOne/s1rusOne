@@ -27,15 +27,15 @@
 
 ### 🚀 Projects
 
-#### 1. Project Management API
+#### 1. [Project Management API](https://github.com/s1rusOne/ProjectManagementAPI)
 - **Technologies:** ASP.NET Core 8.0, Entity Framework Core, C#, SQL Server
 - **Description:** A robust RESTful API for project management using ASP.NET Core 8.0. Implements CRUD operations, utilizes Entity Framework Core for data persistence, and integrates Swagger UI for API documentation and testing.
 
-#### 2. Crypto Vista
+#### 2. [Crypto Vista](https://github.com/s1rusOne/crypto_vista)
 - **Technologies:** React, React Router, Styled Components, Axios, React Table, Recharts
 - **Description:** A comprehensive cryptocurrency tracking and portfolio management web application. Features include real-time cryptocurrency data display, personal portfolio management with price updates, light/dark theme support, and detailed information with price charts for individual cryptocurrencies.
 
-#### 3. Task Management System
+#### 3. [Task Management System](https://github.com/s1rusOne/task-management-system)
 - **Technologies:** TypeScript, Express.js, Node.js, React, MongoDB
 - **Description:** A robust and scalable task management system demonstrating best practices in building a RESTful API. Features include task creation, assignment, status tracking, and analytics. Implements CRUD operations, user productivity tracking, and task distribution analysis.
 
