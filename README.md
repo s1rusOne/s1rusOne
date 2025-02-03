@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-👋 Hello! I'm Roman, a passionate Full Stack Developer with 5 years of experience in web application development. I bring a creative approach to design, quickly adapt to new technologies, and maintain a high level of responsibility in my work.
+👋 Hello! I'm Roman. I've been passionate about programming for 5 years and have been developing websites for the past 2 years. I take a creative approach to problem-solving, quickly adapt to new technologies, and maintain a high level of responsibility in my work.
 
 ### 📞 Contact
 
