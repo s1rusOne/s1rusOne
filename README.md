@@ -36,7 +36,7 @@
 - **Description:** A comprehensive cryptocurrency tracking and portfolio management web application. Features include real-time cryptocurrency data display, personal portfolio management with price updates, light/dark theme support, and detailed information with price charts for individual cryptocurrencies.
 
 #### 3. [Task Management System](https://github.com/s1rusOne/task-management-system)
-- **Technologies:** TypeScript, Express.js, Node.js, React, MongoDB
+- **Technologies:** TypeScript, Express.js, Node.js, MongoDB
 - **Description:** A robust and scalable task management system demonstrating best practices in building a RESTful API. Features include task creation, assignment, status tracking, and analytics. Implements CRUD operations, user productivity tracking, and task distribution analysis.
 
 ### 🎓 Education
