@@ -12,12 +12,12 @@
 
 ### 💻 Skills
 
-- **Programming Languages:** JavaScript, TypeScript, PHP, SQL, C#
-- **Front-end:** React, HTML5, CSS3, Redux, Styled Components
-- **Back-end:** Node.js, Express.js, ASP.NET Core
+- **Programming Languages:** JavaScript, TypeScript, PHP, SQL
+- **Front-end:** React, HTML5, CSS3
+- **Back-end:** Node.js, Express.js
 - **Databases:** MongoDB, MySQL, SQL Server
-- **Tools:** Git, REST API, Webpack, Swagger UI
-- **Frameworks and Libraries:** React Router, Axios, React Table, Recharts, Entity Framework Core
+- **Tools:** Git, REST API
+- **Frameworks and Libraries:** React Router, Axios, MUI
 - **Additional:**
   - Responsive design
   - Performance optimization
